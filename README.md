@@ -5,7 +5,7 @@
 ## 🛠 Tools Used: Power BI | DAX | Data Modeling | Data Cleaning | Data Visualization
 
 ## 📘 Project Overview
-<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/91a3c5aa-0145-4be2-b993-4749a3a33211" />
+<img width="400" height="550" alt="image" src="https://github.com/user-attachments/assets/91a3c5aa-0145-4be2-b993-4749a3a33211" />
 
 
 This project focuses on performing Customer Segmentation Analysis for an e-commerce business using Power BI.
