@@ -35,75 +35,75 @@ The main objective is to analyze customer demographics, purchasing behavior, sal
 
 🔹 1. Sales Analysis Report
 
-    - Total Sales (161.8M)
+        - Total Sales (161.8M)
 
-    - Average Sales per Customer
+        - Average Sales per Customer
 
-    - Sales Trend Over Time (2018–2022)
+        - Sales Trend Over Time (2018–2022)
 
-    - Sales by Education Level
+        - Sales by Education Level
 
-    - Sales by Language
+        - Sales by Language
 
-    - State-wise Sales, Customers, and Avg. Sales
+        - State-wise Sales, Customers, and Avg. Sales
 
-    - Gender-based purchase insights
+        - Gender-based purchase insights
 
 🔹 2. Customer Report
 
-    - Total Customers (40,259)
+        - Total Customers (40,259)
 
-    - Customer Trend Over Time
+        - Customer Trend Over Time
 
-    - Customer by Education & Gender
+        - Customer by Education & Gender
 
-    - Customer by Language
+        - Customer by Language
 
-    - State-wise Income, Customer Count, Avg. Rating
+        - State-wise Income, Customer Count, Avg. Rating
 
-    - Demographic segmentation with filters
+        - Demographic segmentation with filters
 
 ## 📊 Dashboard Filters
 
 To enhance interactive analysis, the following filters were used:
 
-    - Occupation
+        - Occupation
 
-    - Location
+        - Location
 
-    - Gender
+        - Gender
 
-    - Education
+        - Education
 
-    - Income Group
+        - Income Group
 
-    - Age Group
+        - Age Group
 
-    - Marital Status
+        - Marital Status
 
-    - These filters empower end-users to drill down into data and uncover specific segment insights.
+        - These filters empower end-users to drill down into data and uncover specific segment insights.
 
 ## 🗂 Dataset Information
 
 The dataset includes the following fields:
 
-    - Customer ID
+        - Customer ID
 
-    - Age, Gender, Education, Marital Status
+        - Age, Gender, Education, Marital Status
 
-    - Occupation, Income, State
+        - Occupation, Income, State
 
-    - Language Preference
+        - Language Preference
 
-    - Purchase Amount
+        - Purchase Amount
 
-    - Rating
+        - Rating
 
-    - Year of Purchase
+        - Year of Purchase
 
-    - Segmentation Group
+        - Segmentation Group
 
-    - The dataset was cleaned, transformed, and modeled directly inside Power BI.
+        - The dataset was cleaned, transformed, and modeled directly inside Power BI.
 
 ## 📐 Data Modeling & DAX
 
