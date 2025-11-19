@@ -67,43 +67,43 @@ The main objective is to analyze customer demographics, purchasing behavior, sal
 
 To enhance interactive analysis, the following filters were used:
 
-        - Occupation
+    - Occupation
 
-        - Location
+    - Location
 
-        - Gender
+    - Gender
 
-        - Education
+    - Education
 
-        - Income Group
+    - Income Group
 
-        - Age Group
+    - Age Group
 
-        - Marital Status
+    - Marital Status
 
-        - These filters empower end-users to drill down into data and uncover specific segment insights.
+    - These filters empower end-users to drill down into data and uncover specific segment insights.
 
 ## 🗂 Dataset Information
 
 The dataset includes the following fields:
+        
+    - Customer ID
 
-        - Customer ID
+    - Age, Gender, Education, Marital Status
 
-        - Age, Gender, Education, Marital Status
+    - Occupation, Income, State
 
-        - Occupation, Income, State
+    - Language Preference
 
-        - Language Preference
+    - Purchase Amount
 
-        - Purchase Amount
+    - Rating
 
-        - Rating
+    - Year of Purchase
 
-        - Year of Purchase
+    - Segmentation Group
 
-        - Segmentation Group
-
-        - The dataset was cleaned, transformed, and modeled directly inside Power BI.
+    - The dataset was cleaned, transformed, and modeled directly inside Power BI.
 
 ## 📐 Data Modeling & DAX
 
